@@ -1,0 +1,22 @@
+{
+  "name": "awesome-reference-architecture",
+  "version": "1.0.0",
+  "description": "A curated list of awesome resources on reference architecture. Want to make this list better? Take a look at our [code of conduct](code_of_conduct.md) and [contribution guidelines](contributing.md) and then open a pull request!",
+  "main": "index.js",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhdicaire/awesome-reference-architecture.git"
+  },
+  "author": "Benoît H. Dicaire <@BHDicaire>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/bhdicaire/awesome-reference-architecture/issues"
+  },
+  "homepage": "https://github.com/bhdicaire/awesome-reference-architecture#readme",
+  "dependencies": {
+    "awesome-lint": "latest"
+  }
+}
